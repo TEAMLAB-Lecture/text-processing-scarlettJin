@@ -76,4 +76,3 @@ def no_vowels(input_string):
     no_vowel_string = no_vowel_string.replace('U','')
      
     return no_vowel_string
-
